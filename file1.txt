@@ -1,0 +1,4 @@
+#! /bin/bash
+this is git hub class
+and i am learning it from the learn code online
+this is the good course from hitesh
